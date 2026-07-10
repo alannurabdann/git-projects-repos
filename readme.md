@@ -33,3 +33,23 @@
 ## 9. [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
    ### team chat. slack alternative
    ```https://github.com/RocketChat/Rocket.Chat```
+
+## 10. [Paperless-NGX](https://github.com/paperless-ngx/paperless-ngx)
+   ### scan and save receipt, invoice and document
+   ```https://github.com/paperless-ngx/paperless-ngx```
+
+## 11. [Karakeep](https://github.com/karakeep-app/karakeep)
+   ### selfhosted every link, screenshot or article
+   ```https://github.com/karakeep-app/karakeep```
+
+## 12. [Vaultwarden](https://github.com/dani-garcia/vaultwarden)
+   ### self hosted password manager. alternative for bitwarden
+   ```https://github.com/dani-garcia/vaultwarden```
+
+## 13. [Anytype](https://github.com/anyproto/anytype-ts)
+   ### notes and task save locally
+   ```https://github.com/anyproto/anytype-ts```
+
+## 14. [Syncthing](https://github.com/syncthing/syncthing)
+   ### sync and store files. alternative for google drive or icloud
+   ```https://github.com/syncthing/syncthing```
